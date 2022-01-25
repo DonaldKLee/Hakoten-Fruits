@@ -1,2 +1,2 @@
-# Fruit-Slicer
+# Hakoten Fruits
 In progress
